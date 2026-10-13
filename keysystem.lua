@@ -1,4 +1,4 @@
-local SITE = "https://scripts.pickazhub.workers.dev"
+local SITE = "https://main.pickazhub.workers.dev"
 local SCRIPT_URL = "https://example.com/main.lua"
 local KEYLESS = false
 local FILE = "PickasHubKey.txt"
