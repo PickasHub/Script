@@ -1,5 +1,5 @@
 local SITE = "https://main.pickazhub.workers.dev"
-local SCRIPT_URL = "https://example.com/main.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/PickasHub/Loader/refs/heads/main/PHLoader.lua"
 local KEYLESS = false
 local FILE = "PickasHubKey.txt"
 
